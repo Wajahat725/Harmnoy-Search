@@ -1,4 +1,4 @@
-# Analysis-Of-Algorithms-semester-project
+# Harmnoy Search
 ABOUT
 pyHarmonySearch is a pure Python implementation of the harmony search (HS) global optimization algorithm. HS is a metaheuristic search algorithm that, similar to simulated annealing, tabu, and evolutionary searches, is based on real world phenomena. Specifically, HS mimics a jazz band improvising together. Courtesy Wikipedia:
 
